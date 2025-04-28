@@ -14,7 +14,7 @@ export default function Home() {
       <Hero />
       <Process />
       <Target />
-      <Ads />
+      {/* <Ads /> */}
     </>
   )
 }
